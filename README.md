@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @hbond4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Harshal Yenkar 👋
 
-<!---
-hbond4/hbond4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Web Developer** who loves building clean, functional, and user-friendly websites. I value simplicity, efficiency, and great communication—both in code and in life.
+
+---
+
+### 👨‍💻 About Me
+
+- 🔧 Focused on writing clean, scalable code for the web  
+- 🧠 Always learning something new (currently diving deeper into backend frameworks)  
+- 💬 Strong communication skills to bridge tech and people  
+- 🌱 Believer in lifelong learning and meaningful collaboration  
+
+---
+
+### 🛠 Tech Stack
+
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React, Next.js, Tailwind CSS
+- **Tools**: Git, VS Code, Figma
+
+---
+
+### 🧩 A Random Thought
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+Thanks for visiting my profile — let’s build something awesome!
